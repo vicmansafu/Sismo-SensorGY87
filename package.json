@@ -1,0 +1,16 @@
+{
+  "name": "rtc1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rtc_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^11.0.0",
+    "socket.io": "^4.6.2"
+  }
+}
